@@ -1,4 +1,4 @@
-# Git tools workhop
+# Git tools workshope
 
 Get your git on!
 
