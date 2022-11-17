@@ -1,7 +1,8 @@
 name: Spellcheck Action
-on: push
-  paths:
-    - docs/**
+on:
+  push:
+    paths:
+      - index.md
 
 jobs:
   build:
