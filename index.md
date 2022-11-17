@@ -1,4 +1,4 @@
-# Git tools workshop
+# Git tools workhop
 
 Get your git on!
 
@@ -66,7 +66,7 @@ GitHub: Go to file \> press . (period) to open VS code
 
 Ctrl + Shift + P or F1
 
-## Transform case
+For example: **Transform case**
 
 ## GitHub CLI
 
@@ -110,7 +110,7 @@ You could also edit these commands or add more by modifying the ~/.gitconfig fil
 [alias]
 
 co = checkout
-br = branch
+pr = !gh pr create
 com = !git add . && git commit -m
 up = push -u origin HEAD
 fresh = !git fetch origin && git cm && git pull upstream main && git push origin main
