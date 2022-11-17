@@ -1,5 +1,7 @@
 name: Spellcheck Action
 on: push
+  paths:
+    - docs/**
 
 jobs:
   build:
