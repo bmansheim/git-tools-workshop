@@ -62,7 +62,7 @@ Git: Prune remote branches
 
 GitHub: Go to file \> press . (period) to open VS code
 
-## VSCode palette
+## VScode palette
 
 Ctrl + Shift + P or F1
 
